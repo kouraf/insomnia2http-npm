@@ -15,7 +15,7 @@
   "goBinary": {
     "name": "insomnia2http",
     "path": "./bin",
-    "url": "https://github.com/kouraf/insomnia2http/releases/download/v0.1.1/insomnia2http_0.1.1_Linux_arm64.tar.gz"
+    "url": "https://github.com/kouraf/insomnia2http/releases/download/v0.1.1/insomnia2http_0.1.1_Windows_i386.tar.gz"
   },
   "repository": {
     "type": "git",
