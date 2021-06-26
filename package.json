@@ -1,8 +1,7 @@
 {
   "name": "insomnia2http",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple cli tool to convert Insomnia Collections to the VS Code Rest Client format HTTP.",
   "scripts": {
     "postinstall": "go-npm install",
     "preuninstall": "go-npm uninstall"
@@ -17,5 +16,9 @@
     "name": "insomnia2http",
     "path": "./bin",
     "url": "https://github.com/kouraf/insomnia2http/releases/download/v0.1.1/insomnia2http_0.1.1_Linux_arm64.tar.gz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouraf/insomnia2http-npm.git"
   }
 }
