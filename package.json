@@ -1,6 +1,6 @@
 {
   "name": "insomnia2http",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple cli tool to convert Insomnia Collections to the VS Code Rest Client format HTTP.",
   "scripts": {
     "postinstall": "go-npm install",
